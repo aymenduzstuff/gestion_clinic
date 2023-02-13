@@ -8,6 +8,8 @@ package clinicd;
  *
  * @author aymen
  */
+//just adding a comment
+
 public class ClinicD {
 
   
